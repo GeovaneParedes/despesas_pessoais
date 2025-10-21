@@ -124,9 +124,9 @@ image/
 ├── gastos_mensais_totais.png
 └── top_20_contas_mais_caras.png
 
-![image](gastos_mensais_totais.png).
+![image](image/gastos_mensais_totais.png).
 
-![image](top_contas_mais_caras.png).
+![image](image/top_contas_mais_caras.png).
 
 🧪 Testes
 
@@ -180,9 +180,9 @@ Sinta-se livre para utilizar, modificar e contribuir.
 💼 Programador Sênior — Python | DevOps | DataOps
 
 ### 📬 Conecte-se comigo
-[💼Contato Profissional](https://t.me/DevGege)
-[🔗LinkedIn](https://is.gd/KiDqk4)
-[🐙GitHub](https://github.com/GeovaneParedes)
+[💼 Contato Profissional](https://t.me/DevGege)
+[🔗 LinkedIn](https://is.gd/KiDqk4)
+[🐙 GitHub](https://github.com/GeovaneParedes)
 
 
 "Código limpo é aquele que não precisa de explicação." — Robert C. Martin
