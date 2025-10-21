@@ -175,6 +175,10 @@ Sinta-se livre para utilizar, modificar e contribuir.
 @DevGege
 💼 Programador Sênior — Python | DevOps | DataOps
 
-📧 f"[{contato profissional}|{LinkedIn}|{GitHub}](https://t.me/DevGege, https://is.gd/KiDqk4, https://github.com/GeovaneParedes)"
+### 📬 Conecte-se comigo
+[💼 Contato Profissional](https://t.me/DevGege) |
+[🔗 LinkedIn](https://is.gd/KiDqk4) |
+[🐙 GitHub](https://github.com/GeovaneParedes)
+
 
 "Código limpo é aquele que não precisa de explicação." — Robert C. Martin
