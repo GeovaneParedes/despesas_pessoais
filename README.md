@@ -72,7 +72,7 @@ Clone o repositório e crie um ambiente virtual isolado:
 ```bash
 git clone https://github.com/GeovaneParedes/despesas_pessoais.git
 cd despesas_pessoais
-
+```
 python -m venv env
 source env/bin/activate  # Linux / macOS
 # .\env\Scripts\activate  # Windows
@@ -123,9 +123,13 @@ Gráficos salvos na pasta 'image/'.
 image/
 ├── gastos_mensais_totais.png
 └── top_20_contas_mais_caras.png
+---
 
 ![image](image/gastos_mensais_totais.png)
+
 ![image](image/top_20_contas_mais_caras.png)
+
+---
 
 🧪 Testes
 
