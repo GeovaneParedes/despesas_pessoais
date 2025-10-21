@@ -125,7 +125,7 @@ image/
 └── top_20_contas_mais_caras.png
 
 ![image](image/gastos_mensais_totais.png)
-![image](image/top_contas_mais_caras.png)
+![image](image/top_20_contas_mais_caras.png)
 
 🧪 Testes
 
